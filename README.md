@@ -5,4 +5,4 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=altered-existence.com&url=https%3A%2F%2Faltered-existence.com)](https://altered-existence.com)
 
 ## Stats
-![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=elfocrash&show_icons=true&theme=dracula)
+![altered-existence's github stats](https://github-readme-stats.vercel.app/api?username=altered-existence&show_icons=true&theme=dracula)
